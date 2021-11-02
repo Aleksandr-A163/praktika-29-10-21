@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.efd341a8.chunk.js",
-    "main.js.map": "/static/js/main.efd341a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.97284551.js",
-    "runtime-main.js.map": "/static/js/runtime-main.97284551.js.map",
-    "static/js/2.02d49e78.chunk.js": "/static/js/2.02d49e78.chunk.js",
-    "static/js/2.02d49e78.chunk.js.map": "/static/js/2.02d49e78.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.02d49e78.chunk.js.LICENSE.txt": "/static/js/2.02d49e78.chunk.js.LICENSE.txt"
+    "main.css": "/praktika-29-10-21/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/praktika-29-10-21/static/js/main.5b868e6b.chunk.js",
+    "main.js.map": "/praktika-29-10-21/static/js/main.5b868e6b.chunk.js.map",
+    "runtime-main.js": "/praktika-29-10-21/static/js/runtime-main.e9db2a8f.js",
+    "runtime-main.js.map": "/praktika-29-10-21/static/js/runtime-main.e9db2a8f.js.map",
+    "static/js/2.ee996405.chunk.js": "/praktika-29-10-21/static/js/2.ee996405.chunk.js",
+    "static/js/2.ee996405.chunk.js.map": "/praktika-29-10-21/static/js/2.ee996405.chunk.js.map",
+    "index.html": "/praktika-29-10-21/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/praktika-29-10-21/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ee996405.chunk.js.LICENSE.txt": "/praktika-29-10-21/static/js/2.ee996405.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97284551.js",
-    "static/js/2.02d49e78.chunk.js",
+    "static/js/runtime-main.e9db2a8f.js",
+    "static/js/2.ee996405.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.efd341a8.chunk.js"
+    "static/js/main.5b868e6b.chunk.js"
   ]
 }
